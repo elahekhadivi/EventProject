@@ -1,0 +1,15 @@
+C:\Users\Elahe Khadivi\source\repos\EventProject\EventProject\bin\Debug\net6.0\EventProject.exe
+C:\Users\Elahe Khadivi\source\repos\EventProject\EventProject\bin\Debug\net6.0\EventProject.deps.json
+C:\Users\Elahe Khadivi\source\repos\EventProject\EventProject\bin\Debug\net6.0\EventProject.runtimeconfig.json
+C:\Users\Elahe Khadivi\source\repos\EventProject\EventProject\bin\Debug\net6.0\EventProject.dll
+C:\Users\Elahe Khadivi\source\repos\EventProject\EventProject\bin\Debug\net6.0\ref\EventProject.dll
+C:\Users\Elahe Khadivi\source\repos\EventProject\EventProject\bin\Debug\net6.0\EventProject.pdb
+C:\Users\Elahe Khadivi\source\repos\EventProject\EventProject\obj\Debug\net6.0\EventProject.csproj.AssemblyReference.cache
+C:\Users\Elahe Khadivi\source\repos\EventProject\EventProject\obj\Debug\net6.0\EventProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elahe Khadivi\source\repos\EventProject\EventProject\obj\Debug\net6.0\EventProject.AssemblyInfoInputs.cache
+C:\Users\Elahe Khadivi\source\repos\EventProject\EventProject\obj\Debug\net6.0\EventProject.AssemblyInfo.cs
+C:\Users\Elahe Khadivi\source\repos\EventProject\EventProject\obj\Debug\net6.0\EventProject.csproj.CoreCompileInputs.cache
+C:\Users\Elahe Khadivi\source\repos\EventProject\EventProject\obj\Debug\net6.0\EventProject.dll
+C:\Users\Elahe Khadivi\source\repos\EventProject\EventProject\obj\Debug\net6.0\ref\EventProject.dll
+C:\Users\Elahe Khadivi\source\repos\EventProject\EventProject\obj\Debug\net6.0\EventProject.pdb
+C:\Users\Elahe Khadivi\source\repos\EventProject\EventProject\obj\Debug\net6.0\EventProject.genruntimeconfig.cache
