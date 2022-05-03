@@ -1,12 +1,6 @@
-﻿using System;
-
-public class Program
-{
-	public static void Main()
-	{
-		
+﻿
 		var number = new Number();
-		number.number = 15;
+		number.number = 12;
 
 		var noftify = new EvenNumber();
 		noftify.EvenNumberHappend += number.HandleNotify;
@@ -15,9 +9,6 @@ public class Program
         {
 			noftify.Notify(number.number);
 		}
-		
-	}
-}
 
 
 public class Number
